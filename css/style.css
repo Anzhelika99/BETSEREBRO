@@ -186,11 +186,6 @@ a {
    margin: 0;
 }
 
-.why__content {
-   margin-bottom: 80px;
-   margin-top: 25px;
-}
-
 .why__title span {
    color: #1efe5e;
 }
@@ -308,7 +303,7 @@ a {
 }
 
 .promo {
-   margin: 100px 0 200px 0;
+   margin: 80px 0 200px 0;
    position: relative;
    border-top: 3px solid #2c2c2c;
    padding: 60px 0 0 0;
@@ -341,7 +336,7 @@ a {
 }
 
 .promo__registration-button {
-   margin: 40px 0 0 0;
+   margin: 10px 0 0 0;
    font-size: 20px;
    font-family: "Gilroy-Medium";
    color: rgb(26, 26, 26);
@@ -433,6 +428,12 @@ a {
    }
    .button-buy__visible {
       display: none;
+   }
+   .social__image-circle {
+      bottom: 70px;
+   }
+   .why__content {
+      margin-bottom: 70px;
    }
 }
 
@@ -570,7 +571,7 @@ a {
    }
 
    .social__image-circle {
-      bottom: 70px;
+      bottom: 0px;
       left: 80px;
    }
 
@@ -583,7 +584,7 @@ a {
    }
 
    .promo {
-      margin: 60px 0 115px 0;
+      margin: 50px 0 115px 0;
       padding-top: 10px;
    }
 
