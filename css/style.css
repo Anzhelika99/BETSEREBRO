@@ -45,7 +45,7 @@ html {
 body {
    min-width: 320px;
    overflow-x: hidden;
-   background: url(../images/Фон.png) repeat-y;
+   background: url(../images/Фон.png) repeat-y #000;
    background-size: contain;
    color: #fff;
 }
